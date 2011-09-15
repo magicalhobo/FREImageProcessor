@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.5.1" build="21245" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_998512dc2bf00509c552dcc75e3112a3d0b5caf0d028d8fc81759fa27b92eb13_flash_display_Sprite" mod="1310445582361" signatureChecksum="1727822451" >
+        <def id="_998512dc2bf00509c552dcc75e3112a3d0b5caf0d028d8fc81759fa27b92eb13_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/magicalhobo/utils/ImageProcessor" mod="1310445582071" signatureChecksum="1376676133" >
+        <def id="com.magicalhobo.utils:ImageProcessor" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.display:BitmapData" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="b78c20b060852b09ec2154fb9c4db2c3a3afbabed23e71a84b6a8a0d005e85b9"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
