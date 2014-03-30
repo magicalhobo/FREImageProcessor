@@ -1,7 +1,7 @@
 FREImageProcessor
 =================
 
-An AIR 3 Windows-x86 .NET Native Extension for encoding images. The extension uses .NET to transcode `BitmapData` objects into .bmp, .jpg, and .png formats much faster than existing ActionScript or Alchemy methods.
+This AIR Native Extension uses .NET to transcode `BitmapData` objects into .bmp, .jpg, and .png formats much faster than existing ActionScript or Alchemy methods.
 
 Contents:
 
